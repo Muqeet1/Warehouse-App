@@ -1,6 +1,3 @@
-## [Link to heroku hosted App]: http://ezwarehouseapp.herokuapp.com/
-Wait for data to load!
-
 # Getting Started with Create React App
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
